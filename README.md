@@ -46,4 +46,11 @@ The macros are designed to work with an Excel file containing the following shee
 2. Press `Alt + F11` to launch the **VBA Editor**.
 3. Insert a new module and paste the macro code.
 4. Run macros in order depending on your goal.
+---
+📬 Contact
+Author: Mina Jahandideh
+Email: mn.jahandideh@gmail.com
+GitHub: @Mina-Jahandideh
 
+📄 License
+This code is shared under the MIT License. Please give appropriate credit if used in academic or applied work.
